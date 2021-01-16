@@ -7,4 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PWD="/home/workspace/HomeServiceRobot/build"
+export PWD='/home/workspace/HomeServiceRobot/build'
